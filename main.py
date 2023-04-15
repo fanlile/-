@@ -2,6 +2,7 @@ import math
 import sympy
 import sys
 '''
+运行程序时直接将下列数据复制粘贴到控制台即可
 函数 b1 b2 N 初值
 问题1：
 cos(x)-x,1e-6,1e-4,10,0.785398163  
